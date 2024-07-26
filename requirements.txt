@@ -4,4 +4,3 @@ pandas
 matplotlib==3.9.0
 streamlit==0.76.0
 Pillow
-seaoborn==0.13.2
