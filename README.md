@@ -27,8 +27,9 @@
 
 ## Screenshots
 
-<img src="https://github.com/Bhagya2005/Streamlit_Bank_Loan_Prediction/blob/main/sc1.png">
-<img src="https://github.com/Bhagya2005/Streamlit_Bank_Loan_Prediction/blob/main/sc2.png">
-<img src="https://github.com/Bhagya2005/Streamlit_Bank_Loan_Prediction/blob/main/sc3.png">
+<img src="https://github.com/Bhagya2005/Streamlit_Bank_Loan_Prediction_Model/blob/main/sc1.png">
+<img src="https://github.com/Bhagya2005/Streamlit_Bank_Loan_Prediction_Model/blob/main/sc2.png">
+<img src="https://github.com/Bhagya2005/Streamlit_Bank_Loan_Prediction_Model/blob/main/sc3.png">
+
 
 
